@@ -1,0 +1,38 @@
+
+Anuncio: "body { font-family: Arial, sans-serif;…"
+Jose Armando Vera
+Creado el 5:01 p.m.5:01 p.m.
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+h1 {
+  color: #333;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: white;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 8px;
+  box-shadow: 0 0 5px #ccc;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+form input, form textarea

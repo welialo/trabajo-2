@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1748560939,
+        "titulo": "matematicas ",
+        "descripcion": "ecuaciones\r\n",
+        "estado": "pendiente"
+    },
+    {
+        "id": 1748560970,
+        "titulo": "lenguaje",
+        "descripcion": "literatura del libro los 3 mosqueteros\r\n",
+        "estado": "pendiente"
+    },
+    {
+        "id": 1748560993,
+        "titulo": "cultura digital ",
+        "descripcion": "pag 21",
+        "estado": "pendiente"
+    },
+    {
+        "id": 1748561090,
+        "titulo": "musica",
+        "descripcion": "escuchar 3 canciones y encontrar su tono",
+        "estado": "pendiente"
+    },
+    {
+        "id": 1748561140,
+        "titulo": "dise\u00f1o grafico ",
+        "descripcion": "traer una portada dise\u00f1ada por leonardo davinci",
+        "estado": "pendiente"
+    },
+    {
+        "id": 1748561175,
+        "titulo": "comprar boletos para el mundial",
+        "descripcion": "precio 1500\r\n",
+        "estado": "pendiente"
+    }
+]
